@@ -11,6 +11,7 @@ Here is a little bit about me:
 - JavaScript: ReactJS, Node.js, Express.js
 - Python: Flask
 - Databases: SQL, SQLite, MongoDB
+- Web: HTML, CSS, Bootstrap, Sass, MaterialUI, ReactBootstrap
 - Other languages: Java, C
 - Design tools: Figma, Adobe Photoshop, Adobe Illustrator
 - Version control: Git, GitHub
