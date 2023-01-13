@@ -10,6 +10,7 @@ Here is a little bit about me:
 
 - JavaScript: ReactJS, Node.js, Express.js
 - Python: Flask
+- PHP: Laravel
 - Databases: SQL, SQLite, MongoDB
 - Web: HTML, CSS, Bootstrap, Sass, MaterialUI, ReactBootstrap
 - Other languages: Java, C
