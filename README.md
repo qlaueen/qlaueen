@@ -20,7 +20,7 @@ Here is a little bit about me:
 ## 📚 What I'm currently learning
 
 ```` text
-React Native and Swift
+JS Game Development
 ````
 
 ## 📈 My stats
