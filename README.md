@@ -31,6 +31,6 @@ JS Game Development
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/laura-mazoni/)
+- [LinkedIn](https://www.linkedin.com/in/lauramazoni/)
 - [Portfolio](https://mazo.studio/)
 - [Email](mailto:qlaueen@gmail.com)
