@@ -25,8 +25,6 @@ JS Game Development
 
 ## 📈 My stats
 
-![Laura Mazoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlaueen&show_icons=true&theme=midnight-purple)
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlaueen&layout=compact&theme=midnight-purple)
 
 ## 📫 How to reach me
