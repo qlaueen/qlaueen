@@ -2,8 +2,6 @@
 
 My name is Laura Mazoni and I am a recent graduate of New York University, where I studied Computer Science.
 
-[Visit my portfolio!](https://mazo.studio/)
-
 Here is a little bit about me:
 
 ## 🔧 Technology and Tools
@@ -30,5 +28,4 @@ JS Game Development
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/lauramazoni/)
-- [Portfolio](https://mazo.studio/)
 - [Email](mailto:qlaueen@gmail.com)
