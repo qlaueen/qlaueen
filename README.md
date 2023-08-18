@@ -15,12 +15,6 @@ Here is a little bit about me:
 - Design tools: Figma, Adobe Photoshop, Adobe Illustrator
 - Version control: Git, GitHub
 
-## 📚 What I'm currently learning
-
-```` text
-JS Game Development
-````
-
 ## 📈 My stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlaueen&layout=compact&theme=midnight-purple)
