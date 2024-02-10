@@ -2,6 +2,8 @@
 
 My name is Laura Mazoni and I am a recent graduate of New York University, where I studied Computer Science.
 
+[Visit my portfolio!](http://lauramazoni.com)
+
 Here is a little bit about me:
 
 ## 🔧 Technology and Tools
