@@ -10,7 +10,7 @@ Here is a little bit about me:
 - Python: Flask
 - PHP: Laravel, Laravel Backpack
 - Databases: SQL, SQLite, MongoDB
-- Web: HTML, CSS, Bootstrap, Sass, MaterialUI, ReactBootstrap
+- Web: HTML, CSS, Bootstrap, Sass, MaterialUI, ReactBootstrap, Shopify Liquid
 - Other languages: Java, C
 - Design tools: Figma, Adobe Photoshop, Adobe Illustrator
 - Version control: Git, GitHub
