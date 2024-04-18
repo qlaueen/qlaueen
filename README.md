@@ -21,9 +21,7 @@ Here is a little bit about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlaueen&theme=midnight-purple)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=qlaueen&theme=aura)](https://git.io/streak-stats)
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlaueen&theme=midnight-purple&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=qlaueen&theme=aura)](https://git.io/streak-stats)
  
 ## 📫 How to reach me
 
